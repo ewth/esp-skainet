@@ -1,0 +1,1 @@
+esp32-pros3-voice/components/hardware_driver/boards/esp32s3-ewth-pros3-voice/bsp_board.c

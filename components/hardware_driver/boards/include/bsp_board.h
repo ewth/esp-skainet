@@ -47,6 +47,8 @@
     #include "esp32_s3_box_3_board.h"
 #elif CONFIG_ESP32_P4_FUNCTION_EV_BOARD
     #include "esp32_p4_function_ev_board.h"
+#elif CONFIG_ESP32_S3_EWTH_PROS3_VOICE_BOARD
+    #include "esp32_s3_ewth_pros3_voice_board.h"
 #else 
     
 #endif

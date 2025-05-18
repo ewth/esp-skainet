@@ -1,0 +1,1 @@
+../esp32s3-ewth-pros3-voice/esp32-pros3-voice/components/hardware_driver/boards/esp32s3-ewth-pros3-voice/include/esp32_s3_ewth_pros3_voice_board.h

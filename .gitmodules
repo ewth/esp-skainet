@@ -1,0 +1,3 @@
+[submodule "components/hardware_driver/boards/esp32s3-ewth-pros3-voice/esp32-pros3-voice"]
+	path = components/hardware_driver/boards/esp32s3-ewth-pros3-voice/esp32-pros3-voice
+	url = https://github.com/ewth/esp32-pros3-voice
